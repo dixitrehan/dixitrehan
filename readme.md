@@ -1,7 +1,7 @@
 [![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjrBrxr--QjCyXQE7cMthPZy4AG9nRedTH96ejnuJZgtTuy5JVpgEeqMx3TWb-0FWKag&usqp=CAU)]
 <h1 align="center">Hi 👋, I'm DIXIT REHAN</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src= "https://t3.ftcdn.net/jpg/06/01/17/18/240_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg">
+<img align="right" alt="Coding" align ="center" width="400" src= "https://t3.ftcdn.net/jpg/06/01/17/18/240_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dixitrehan&label=Profile%20views&color=0e75b6&style=flat" alt="dixitrehan" /> </p>
 
