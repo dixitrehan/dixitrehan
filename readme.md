@@ -3,7 +3,7 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align=" alt="Coding" align ="right" width="400" src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpmAuOEe5Ck7O3Wq4yAzHIhSX7YfkHJQRxTw&s">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dixitrehan&label=Profile%20views&color=0e75b6&style=flat" alt="dixitrehan" /> </p>
+<p align="center"> <img src="https://unsplash.com/photos/black-and-gray-laptop-displaying-codes-QQ9LainS6tI" alt="dixitrehan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dixitrehan" alt="dixitrehan" /></a> </p>
 
