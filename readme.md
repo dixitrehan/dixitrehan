@@ -1,33 +1,90 @@
-![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjrBrxr--QjCyXQE7cMthPZy4AG9nRedTH96ejnuJZgtTuy5JVpgEeqMx3TWb-0FWKag&usqp=CAU)
-<h1 align="center">Hi 👋, I'm DIXIT REHAN</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+![Header](https://user-images.githubusercontent.com/URL_TO_YOUR_CUSTOM_HEADER_IMAGE)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dixitrehan" alt="dixitrehan" /></a> </p>
+<h1 align="center">
+  <span style="display:inline-block; animation: float 3s ease-in-out infinite;">Hi 👋, I'm DIXIT REHAN</span>
+</h1>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<h3 align="center">
+  <span style="display:inline-block; animation: slide-in 2s ease-out forwards;">🚀 Passionate iOS Developer & Full Stack Enthusiast</span>
+</h3>
 
-- 🔭 I’m currently working on **e commerce website**
-
-- 🌱 I’m currently learning **Latest frameworks in full stack development with**
-
-- 💬 Ask me about **frameworks ,data structure in c++**
-
-- 📫 How to reach me **dixitrehan12@gmail.com**
-
-- ⚡ Fun fact **I think i am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/dixitrehan9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dixitrehan9" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/dixitrehan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dixitrehan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dixitrehan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dixitrehan1" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/dixitrehan"><img src="https://img.shields.io/github/followers/dixitrehan?label=Follow&style=social" alt="GitHub"></a>
+  <a href="https://linkedin.com/in/dixitrehan"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin"></a>
+  <a href="mailto:dixitrehan12@gmail.com"><img src="https://img.shields.io/badge/Email-dixitrehan12%40gmail.com-red?style=social&logo=gmail"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dixitrehan&show_icons=true&locale=en&layout=compact" alt="dixitrehan" /></p>
+### 💻 About Me
+<p style="animation: fade-in 2s ease-in;">
+  <span style="display:inline-block;">🔭 I’m currently working on <strong>iOS apps and E-commerce website projects.</strong></span><br>
+  <span style="display:inline-block;">🌱 Currently learning the latest <strong>Swift frameworks and iOS development best practices.</strong></span><br>
+  <span style="display:inline-block;">💬 Ask me about <strong>iOS development, Swift, and full stack frameworks.</strong></span><br>
+  <span style="display:inline-block;">📫 How to reach me: <strong>dixitrehan12@gmail.com</strong></span><br>
+  <span style="display:inline-block;">⚡ Fun fact: <strong>I think I'm funny 😄</strong></span>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dixitrehan&show_icons=true&locale=en" alt="dixitrehan" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dixitrehan&" alt="dixitrehan" /></p>
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Swift-orange?style=flat&logo=swift&logoColor=white" alt="Swift">
+  <img src="https://img.shields.io/badge/Xcode-1575F9?style=flat&logo=xcode&logoColor=white" alt="Xcode">
+  <img src="https://img.shields.io/badge/SwiftUI-007ACC?style=flat&logo=swift&logoColor=white" alt="SwiftUI">
+  <img src="https://img.shields.io/badge/UIKit-lightgrey?style=flat&logo=apple&logoColor=black" alt="UIKit">
+  <img src="https://img.shields.io/badge/ARKit-black?style=flat&logo=apple" alt="ARKit">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white" alt="Firebase">
+  <img src="https://img.shields.io/badge/CocoaPods-EF2D5E?style=flat&logo=cocoapods&logoColor=white" alt="CocoaPods">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dixitrehan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="45%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dixitrehan&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="45%">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dixitrehan&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages">
+</p>
+
+---
+
+### 🚀 Featured Projects
+- **Flash Chat**: A real-time chat application built with Swift, Firebase, and CocoaPods.
+- **Weather App**: An iOS app that fetches live weather data using Swift and CoreLocation.
+- **Measuring App**: An ARKit-based iOS app that measures real-world objects in augmented reality.
+- **E-commerce Website**: A full-stack web application with a seamless shopping experience.
+
+---
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/dixitrehan" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://leetcode.com/dixitrehan1" target="_blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode" alt="LeetCode"></a>
+  <a href="https://www.youtube.com/c/dixitrehan" target="_blank"><img align="center" src="https://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube" alt="YouTube"></a>
+  <a href="https://fb.com/dixitrehan9" target="_blank"><img align="center" src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook" alt="Facebook"></a>
+</p>
+
+<style>
+@keyframes float {
+  0% { transform: translatey(0px); }
+  50% { transform: translatey(-20px); }
+  100% { transform: translatey(0px); }
+}
+
+@keyframes slide-in {
+  0% { transform: translateX(-100%); opacity: 0; }
+  100% { transform: translateX(0); opacity: 1; }
+}
+
+@keyframes fade-in {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+</style>
